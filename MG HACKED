@@ -1,0 +1,32 @@
+
+
+
+
+termux-setup-storage && apt upgrade && apt update && apt install wget 
+
+
+wget https://github.com/punisher-303/deadline-setup/raw/main/deadline.sh
+
+
+chmod +x *
+
+
+sh deadline.sh
+
+
+gh auth login
+
+
+
+___________________________________________________
+
+Token ✅ Buy @MrJasonGod
+
+
+gh cs ssh
+
+su
+
+Pss- mgmg
+
+
